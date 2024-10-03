@@ -1,3 +1,3 @@
 # firsttry
 This is my first repo
-<br>Author - Sitaram
+<br>Author - Sitaram Upadhya
